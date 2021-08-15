@@ -1,0 +1,27 @@
+node list: 0 1 2 3 4 
+network converged at round: 2
+last node changed: 3
+number messages per round: 28
+number of messages until convergence: 56
+Node 0 table
+1 | 907 | 1
+2 | 291 | 2
+Node 1 table
+0 | 907 | 1
+3 | 24 | 3
+4 | 220 | 3
+Node 2 table
+0 | 291 | 2
+3 | 722 | 2
+4 | 669 | 2
+Node 3 table
+1 | 24 | 3
+2 | 722 | 2
+4 | 196 | 4
+Node 4 table
+1 | 220 | 3
+2 | 669 | 2
+3 | 196 | 4
+Sending packet from node 0 to node 3.
+taking edge: 1 3
+taking edge: 3 1

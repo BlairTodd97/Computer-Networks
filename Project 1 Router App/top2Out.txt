@@ -1,0 +1,58 @@
+node list: 0 1 2 3 4 5 6 7 8 9 
+network converged at round: 3
+last node changed: 2
+number messages per round: 120
+number of messages until convergence: 360
+Node 0 table
+4 | 722 | 5
+5 | 95 | 5
+9 | 711 | 9
+Node 1 table
+3 | 446 | 1
+6 | 592 | 6
+8 | 968 | 8
+Node 2 table
+6 | 486 | 8
+8 | 96 | 8
+9 | 310 | 2
+Node 3 table
+1 | 446 | 1
+4 | 608 | 4
+Node 4 table
+0 | 722 | 5
+3 | 608 | 4
+5 | 627 | 4
+6 | 184 | 6
+8 | 574 | 6
+9 | 723 | 4
+Node 5 table
+0 | 95 | 5
+4 | 627 | 4
+7 | 95 | 7
+Node 6 table
+1 | 592 | 6
+2 | 486 | 8
+4 | 184 | 6
+7 | 519 | 8
+8 | 390 | 8
+9 | 796 | 2
+Node 7 table
+5 | 95 | 7
+6 | 519 | 8
+8 | 129 | 8
+Node 8 table
+1 | 968 | 8
+2 | 96 | 8
+4 | 574 | 6
+6 | 390 | 8
+7 | 129 | 8
+9 | 406 | 2
+Node 9 table
+0 | 711 | 9
+2 | 310 | 2
+4 | 723 | 4
+6 | 796 | 2
+8 | 406 | 2
+Sending packet from node 0 to node 7.
+taking edge: 5 7
+taking edge: 7 5
